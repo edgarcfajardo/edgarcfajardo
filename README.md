@@ -2,13 +2,14 @@
 <h1>Hola, soy <a href="https://github.com/edgarcfajardo">Edgar Fajardo 👋</a></h1>
 </div>
 
-## Estudiante de Ingeniería en Desarrollo de Software 💻
+## Software Engineer | Product & Systems 💻
 
-Soy estudiante de Desarrollo de Software comprometido con la excelencia en ingeniería mediante el aprendizaje continuo e implementación de las mejores prácticas de la industria. Busco desarrollar soluciones mantenibles, seguras y de alta calidad.
+Ingeniero de software enfocado en el desarrollo de sistemas y productos digitales con énfasis en **lógica de negocio**, **arquitectura mantenible** y **buenas prácticas de ingeniería**.  
+Experiencia construyendo soluciones web y móviles end-to-end, priorizando calidad, claridad técnica y escalabilidad.
 
 ## 🎯 Filosofía
 
-> *"La excelencia es la búsqueda constante de mejores soluciones mediante el aprendizaje continuo"*
+> *"La excelencia es la búsqueda constante de mejores soluciones mediante aprendizaje continuo y criterio técnico."*
 
 ## 🛠 Stack Tecnológico
 
@@ -27,7 +28,7 @@ Soy estudiante de Desarrollo de Software comprometido con la excelencia en ingen
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### **Gestión de Proyectos**
+### **Gestión y Colaboración**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
@@ -37,21 +38,23 @@ Soy estudiante de Desarrollo de Software comprometido con la excelencia en ingen
 
 ## 📋 Competencias Técnicas
 
-### **Desarrollo de Software**
+### **Ingeniería de Software**
 - Desarrollo web con **Next.js** y **TypeScript**
-- Desarrollo móvil nativo con **Android Studio** y **Kotlin**
-- Control de versiones con **Git** y **GitHub**
-- Bases de datos relacionales y NoSQL
+- Desarrollo móvil nativo con **Android (Kotlin)**
+- Diseño y validación de lógica de negocio
+- Integración de bases de datos relacionales y NoSQL
+- Control de versiones y flujos colaborativos con **Git**
 
-### **Metodologías Ágiles**
-- Capacitación en **Product Owner** para Scrum
-- Gestión de proyectos con **Jira**
-- Desarrollo colaborativo y prácticas ágiles
+### **Producto y Metodologías**
+- Trabajo orientado a **producto y necesidades reales de negocio**
+- Colaboración bajo **Scrum**
+- Uso de **Jira** para planeación y seguimiento
+- Comunicación técnica clara con perfiles no técnicos
 
-### **Mejores Prácticas**
-- Prácticas de desarrollo con enfoque en seguridad
-- Código mantenible y de alta calidad
-- Mentoría técnica y transferencia de conocimiento
+### **Buenas Prácticas**
+- Código mantenible, legible y testeable
+- Enfoque en seguridad y consistencia de datos
+- Documentación y transferencia de conocimiento
 
 ## 📊 Métricas de GitHub
 
@@ -61,8 +64,9 @@ Soy estudiante de Desarrollo de Software comprometido con la excelencia en ingen
 
 </div>
 
-## 🏆 Logros y Experiencia
+## 🏆 Experiencia y Aportaciones
 
-- **Liderazgo Técnico:** Dirección de equipos de desarrollo de software
-- **Mentoría:** Capacitación en Git, GitHub a desarrolladores de software
-- **Gestión Ágil:** Conocimiento en Scrum y rol de Product Owner
+- **Liderazgo técnico** en proyectos de desarrollo de software
+- **Mentoría técnica** en Git y GitHub
+- Participación en diseño y ejecución de soluciones completas
+- Enfoque en calidad, claridad técnica y mejora continua
