@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hola, soy <a href="https://github.com/edgarcfajardo">Edgar Fajardo 👋</a></h1>
+<h1>Hola, soy <a href="https://www.fajardodev.com/">Edgar Fajardo 👋</a></h1>
 </div>
 
 ## Software Engineer | Product & Systems 💻
